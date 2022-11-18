@@ -18,7 +18,7 @@
 
 ## Usage
 ### Traning the model:
--run.sh or python ./main.py
+-run.sh or python ./main_total.py
 
 ## Notes
 
