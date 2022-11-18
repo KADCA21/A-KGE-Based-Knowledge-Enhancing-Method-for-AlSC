@@ -1,4 +1,4 @@
-# A-KGE-Based-Knowledge-Enhancing-Method-for-AlSC
+# KGE
 ## Environment
 -OS Ubuntu 16.04.6 LTS  
 -python 3.7.6  
